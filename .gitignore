@@ -12,4 +12,8 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+ vendor/
+ .idea
+ .vscode
+ Ds_Store
+ node_modules
